@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaycodes2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently doing web tech
 
 
 <!---
